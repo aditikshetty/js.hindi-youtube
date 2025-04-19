@@ -1,0 +1,17 @@
+
+
+// filepath: /workspaces/js.hindi-youtube/.devcontainer/01_bascis/01_variables
+const accountId = 144553;
+let accountEmail = "aditi@gmail.com";
+var accountpassword = "1234";
+let accountcity = "nagapur"; // Declare the variable properly
+
+//let accountstate//its undefined
+/*perfer not to use var because of issue in block scope and functionl scope*/
+
+
+console.log(accountId);
+console.table([accountId,accountEmail,accountpassword,accountcity]);
+
+
+
