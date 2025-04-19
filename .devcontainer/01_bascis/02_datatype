@@ -1,0 +1,16 @@
+" use strict";//treat all js code as newer version
+
+//alert("hello")//we are using nodejs not browser
+//ECMA is original tc39 doc//
+//let name="aditi"//is a string
+//num => 2 to power 53
+//string=>""
+//null=> stand alonevalue
+//undefiend=> no value
+//object=>collectin of values of key value pair
+//console.log(typeof name)//to check the type of variable
+// null is an object
+
+
+
+
