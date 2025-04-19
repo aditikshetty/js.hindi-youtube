@@ -1,0 +1,11 @@
+let score=88;
+let valueinnumber=number(score);
+//"33"=>convert in to 33
+//"33abc"=>NaN
+//true =>1;false=>0
+let BoolenIsLoggedIn= Boolen(isLoggedIn)
+///workspaces/js.hindi-youtube/.devcontainer/01_bascis/conversionOperationconsole.log(booleanIsLoggedIn);
+//""=>flase
+let somenumber=33;
+let stringNumber= string(somenumber);
+console.log(string number);
